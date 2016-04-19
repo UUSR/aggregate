@@ -1,0 +1,5 @@
+<module>
+    <command id="cmd.mybrain">
+        <pattern value="* включ* * мозг* *"/>
+    </command>
+</module>
